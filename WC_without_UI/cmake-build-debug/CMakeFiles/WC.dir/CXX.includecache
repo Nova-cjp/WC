@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/24277/Desktop/WC/main.cpp
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+string.h
+-
+conio.h
+-
+io.h
+-
+
